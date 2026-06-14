@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Zen School Management Network is an enterprise-level network infrastructure designed and simulated using Cisco Packet Tracer. The project demonstrates practical implementation of routing, switching, security, wireless networking, IoT integration, and network services within a school environment.
+The Zen School of  Management Network is an enterprise-level network infrastructure designed and simulated using Cisco Packet Tracer. The project demonstrates practical implementation of routing, switching, security, wireless networking, IoT integration, and network services within a school environment.
 
 The network connects multiple departments including administrative offices, staff rooms, laboratories, library, security room, AV room, server rooms, and guest lobby through a scalable and secure architecture.
 
