@@ -1,4 +1,4 @@
-# Zen School Management Network
+# Zen School of Management Network
 
 ## Overview
 
