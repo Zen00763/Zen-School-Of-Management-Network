@@ -103,23 +103,6 @@ The network connects multiple departments including administrative offices, staf
 
 ---
 
-## Repository Structure
-
-```text
-Documentation/
-├── Project Documentation PDF
-
-Packet-Tracer-File/
-├── Zen_School_Management_Network.pkt
-
-Screenshots/
-├── Network Topology.png
-├── Network Topology2.png
-└── Network Topology3.png
-```
-
----
-
 ## Skills Demonstrated
 
 * Enterprise Network Design
